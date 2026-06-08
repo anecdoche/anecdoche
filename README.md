@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anecdoche&abbreviated=true/?username=anecdoche&label=soul&color=lightgray" />
+  <img src="https://komarev.com/ghpvc/?username=anecdoche&abbreviated=true/?username=anecdoche&label=𝄞&color=lightgray" />
 </p>
 
 
-![Alt Text](https://cdn.imageurlgenerator.com/uploads/3d031dfd-e7ce-468e-b038-d9e315bbcd1e.gif)
+![Alt Text](https://cdn.imageurlgenerator.com/uploads/02ddf412-3e62-4354-b67c-a6214b2ef0d6.gif)
