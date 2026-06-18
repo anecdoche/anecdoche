@@ -13,8 +13,4 @@
   𝄢
 </p>
 
-<p align="center">
-  <a href="patreon.com/flustra">𝚒𝚗𝚏𝚘</a>
-</p>
-
 
